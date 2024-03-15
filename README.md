@@ -2,7 +2,7 @@
 
 <> 💻 I'm a Passinate CyberSecurityResearcher and Web developer.
 
-<> 📖 Currently learning Ethical Hacker
+<> 📖 Currently learning Ethical Hacking
 
 # Tools I Use
 
