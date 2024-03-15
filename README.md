@@ -24,7 +24,7 @@
 
 # Github Stats
 
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=MANOJ-80ons=true&theme=dark)
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=MANOJ-80&show_icons=true&theme=dark)
 
 
 
