@@ -15,6 +15,7 @@
 ![Git](https://img.shields.io/badge/git-vc?style=for-the-badge&logo=git&logoColor=%23F05032&labelColor=black&color=black)
 ![Static Badge](https://img.shields.io/badge/kalilinux-logo?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=whit&color=black)
 ![Static Badge](https://img.shields.io/badge/figma-logo?style=for-the-badge&logo=figma&logoColor=%23F24E1E&color=black)
+![Static Badge](https://img.shields.io/badge/vscode-logo?style=for-the-badge&logo=visualstudiocode&logoColor=%23007ACC&color=black)
 
 
 
