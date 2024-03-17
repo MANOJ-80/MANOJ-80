@@ -19,6 +19,8 @@
 ![Static Badge](https://img.shields.io/badge/figma-logo?style=for-the-badge&logo=figma&logoColor=%23F24E1E&color=black)
 ![Static Badge](https://img.shields.io/badge/vscode-logo?style=for-the-badge&logo=visualstudiocode&logoColor=%23007ACC&color=black)
 ![Static Badge](https://img.shields.io/badge/splunk-logo?style=for-the-badge&logo=splunk&logoColor=%23ED1C24&color=black)
+![Static Badge](https://img.shields.io/badge/docker-icon?style=for-the-badge&logo=docker&logoColor=%232496ED&color=black)
+
 
 
 
