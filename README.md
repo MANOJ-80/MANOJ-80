@@ -11,7 +11,7 @@
 ![JS](https://img.shields.io/badge/javascript-lang?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=black&color=black)
 ![Static Badge](https://img.shields.io/badge/python-logo?style=for-the-badge&logo=python&logoColor=%233776AB&color=black)
 ![Static Badge](https://img.shields.io/badge/c-icon?style=for-the-badge&logo=c&logoColor=%23A8B9CC&color=black)
-[comment]: # (![React](https://img.shields.io/badge/React-library?style=for-the-badge&logo=react&logoColor=%2361DAFB&labelColor=black&color=black))
+[comment]: (![React](https://img.shields.io/badge/React-library?style=for-the-badge&logo=react&logoColor=%2361DAFB&labelColor=black&color=black))
 
 
 ![Git](https://img.shields.io/badge/git-vc?style=for-the-badge&logo=git&logoColor=%23F05032&labelColor=black&color=black)
