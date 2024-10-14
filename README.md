@@ -2,7 +2,7 @@
 
 <> 💻 I'm a CyberSecurity Researcher.
 
-<> 📖 Currently learning Ethical Hacking
+<> 📖 Currently learning Ethical Hacking 
 
 # Tools I Use
 
