@@ -1,6 +1,6 @@
 <> 👋 Hello! I'm Manoj...
 
-<> 💻 I'm a Passinate CyberSecurityResearcher and Web developer.
+<> 💻 I'm aCyberSecurityResearcher.
 
 <> 📖 Currently learning Ethical Hacking
 
