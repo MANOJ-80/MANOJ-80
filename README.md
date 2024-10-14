@@ -1,6 +1,6 @@
 <> 👋 Hello! I'm Manoj...
 
-<> 💻 I'm a CyberSecurity Researcher.
+<> 💻 I'm a CyberSecurity Researcher. 
 
 <> 📖 Currently learning Ethical Hacking 
 
