@@ -13,7 +13,7 @@
 ![Static Badge](https://img.shields.io/badge/c-icon?style=for-the-badge&logo=c&logoColor=%23A8B9CC&color=black)
 <!---![React](https://img.shields.io/badge/React-library?style=for-the-badge&logo=react&logoColor=%2361DAFB&labelColor=black&color=black)--->
 
-
+ 
 ![Git](https://img.shields.io/badge/git-vc?style=for-the-badge&logo=git&logoColor=%23F05032&labelColor=black&color=black)
 ![Static Badge](https://img.shields.io/badge/linux-logo?style=for-the-badge&logo=linux&logoColor=%23FCC624&color=black)
 ![Static Badge](https://img.shields.io/badge/kalilinux-logo?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=whit&color=black)
