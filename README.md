@@ -3,7 +3,7 @@
 #include <consistency.h>
 #include <cyberwarfare.h>
 
-// Welcome to the Digital Battlefield
+ // Work in progress: Trying to fix the world's security, one vulnerability at a time.
 
 void whoami()
 {
