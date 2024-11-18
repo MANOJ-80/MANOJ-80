@@ -2,7 +2,9 @@
 #include <innovation.h>
 #include <consistency.h>
 #include <cyberwarfare.h>
+
 // Welcome to the Digital Battlefield
+
 void whoami()
 {
     char alias[] = "Security Researcher";
@@ -10,6 +12,8 @@ void whoami()
     char focus[] = "Cybersecurity", "Computer Networks", "Mechine Learning";
 }
 ~~~
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/iamavu](https://www.linkedin.com/in/manoj-g-2444ab28a)) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/) 
