@@ -14,7 +14,7 @@ void whoami()
 }
 ~~~
 
-<img align="center" alt="Matrix" width="1000" height="300" src="https://gifdb.com/images/high/fast-green-stream-coding-kjuq7exuta2jv16v.gif">
+"<img align="center" alt="Matrix" width="1000" height="300" src="https://gifdb.com/images/high/fast-green-stream-coding-kjuq7exuta2jv16v.gif">"
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoj-g-2444ab28a) 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/wF9pEQDB)
