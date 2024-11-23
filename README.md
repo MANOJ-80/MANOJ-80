@@ -12,7 +12,7 @@ void whoami()
     char focus[] = "Cybersecurity", "Computer Networks", "Machine Learning";
     char arsenal[] = "Python, Java, C, Linux, Wireshark, Nmap, Burp Suite, Metasploit";
 }
-~~~
+~~~ 
  
 
 
