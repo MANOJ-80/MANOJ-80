@@ -9,8 +9,8 @@ void whoami()
 {
     char alias[] = "Security Researcher";
     char hobbies[] = "Building | Breaking | Fixing";
-    char focus[] = "Cybersecurity", "Computer Networks", "Machine Learning";
-    char arsenal[] = "Python, Java, C, Linux, Wireshark, Nmap, Burp Suite, Metasploit";
+    char focus[] = "Cybersecurity", "Computer Networks", "Machine Learning", "Web Development";
+    char arsenal[] = "Python, Java, Javascript, C, Linux, Wireshark, Nmap, Burp Suite, Metasploit";
 }
 ~~~ 
  
