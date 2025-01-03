@@ -5,7 +5,7 @@
 
  // Work in progress: Trying to fix the world's security.. 
 
-void whoami()
+void whoami()  
 {
     char alias[] = "Security Researcher";
     char hobbies[] = "Building | Breaking | Fixing";
