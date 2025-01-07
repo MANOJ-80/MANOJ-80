@@ -21,7 +21,7 @@ void whoami()
 ~~~ 
  
     
-<div align="center">
+<div align="center">salesp07
  
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)]()
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoj-g-2444ab28a) 
@@ -34,10 +34,12 @@ void whoami()
 </div>
 <hr/>
 
+
+![snake gif](https://github.com/MANOJ-80/MANOJ-80/blob/output/github-contribution-grid-snake.gif)
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/MANOJ-80/MANOJ-80/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
