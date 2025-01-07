@@ -35,7 +35,7 @@ void whoami()
 <hr/>
 
 
-![snake gif](https://github.com/MANOJ-80/MANOJ-80/blob/output/github-contribution-grid-snake.gif)
+
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
