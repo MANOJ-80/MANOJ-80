@@ -37,7 +37,7 @@ void whoami()
 
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h1>My Contributions</h1>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/MANOJ-80/MANOJ-80/output/github-contribution-grid-snake.svg" />
   
