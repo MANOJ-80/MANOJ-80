@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MANOJ-80.MANOJ-80" />
+
 ~~~c
 #include <innovation.h>  
 #include <consistency.h>
