@@ -44,5 +44,7 @@ void whoami()
   <br/><br/><br/>
 </div>
 
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=MANOJ-80&show_icons=true&theme=blue_navy)
+
 
 
