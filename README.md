@@ -1,5 +1,5 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MANOJ-80.MANOJ-80" />
-<img src="https://assets.pinterest.com/ext/embed.html?id=86483255338756642" height="295" width="345" frameborder="0" scrolling="no" ></img>
+
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Manoj!;" />
