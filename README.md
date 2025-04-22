@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MANOJ-80.MANOJ-80" />
 <img src='https://mir-s3-cdn-cf.behance.net/project_modules/source/fe5895176249761.64c16c9007ab2.gif'>
 
- 
+
 ~~~c        
 #include <innovation.h>    
 #include <consistency.h>     
@@ -15,9 +15,9 @@ void whoami()
     char focus[] = "Cybersecurity", "Computer Networks", "Machine Learning", "Web Development";
     char arsenal[] = "Python, Java, Javascript, C, Linux,Burp Suite, Metasploit";
 }
-~~~ 
- 
-    
+~~~
+
+
 <div align="center">
  
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)]()
