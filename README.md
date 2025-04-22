@@ -1,9 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MANOJ-80.MANOJ-80" />
+<img src='https://mir-s3-cdn-cf.behance.net/project_modules/source/fe5895176249761.64c16c9007ab2.gif'>
 
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Manoj!;" />
-</h1>
  
 ~~~c        
 #include <innovation.h>    
