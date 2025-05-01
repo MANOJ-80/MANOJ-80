@@ -1,5 +1,5 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MANOJ-80.MANOJ-80" />
-<img src='https://mir-s3-cdn-cf.behance.net/project_modules/source/fe5895176249761.64c16c9007ab2.gif'>
+<img src='https://mir-s3-cdn-cf.behance.net/project_modules/source/fe5895176249761.64c16c9007ab2.gif' height="600" width="1200">
 
 
 ~~~c        
