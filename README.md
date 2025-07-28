@@ -61,6 +61,5 @@ console.log(whoami);
 
 ---
 
-## ⚡ Motto
-> *Trace Less. Echo More.*
+
 
