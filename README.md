@@ -12,9 +12,9 @@
 ~~~js       
 const whoami = {
   alias: "0xEcho",
-  role: "Software Developer | Security Researcher | Red Teamer",
+  role: "Software Developer | Security Researcher",
   hobbies: "Building | Breaking | Fixing",
-  focus: ["Web Development", "Cybersecurity", "Computer Networks", "Machine Learning"],
+  focus: ["Web Development", "Cybersecurity", "Machine Learning"],
   programmingLanguages: ["Python", "Java", "JavaScript", "C"],
   frontend: ["React.js", "HTML5", "CSS3", "Tailwind CSS"],
   backend: ["Node.js", "Express.js", "Passport.js"],
