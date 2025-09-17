@@ -15,8 +15,8 @@ const whoami = {
   role: "Software Developer | Security Researcher",
   hobbies: "Building | Breaking | Fixing",
   focus: ["Web Development", "Cybersecurity", "Machine Learning"],
-  programmingLanguages: ["Python", "Java", "JavaScript", "C"],
-  frontend: ["React.js", "HTML5", "CSS3", "Tailwind CSS"],
+  programmingLanguages: ["Python", "Java", "JavaScript"],
+  frontend: ["React.js", "HTML5", "Tailwind CSS"],
   backend: ["Node.js", "Express.js", "Passport.js"],
   databases: ["MongoDB", "PostgreSQL", "MySQL"],
   tools: ["Linux", "Git", "Vite", "ESLint", "Postman", "Burp Suite", "Metasploit"]
