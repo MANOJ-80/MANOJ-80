@@ -47,6 +47,8 @@ console.log(whoami);
 
 ---
 
+
+
 ## 🐍 Contributions
 
 <div align="center">
@@ -55,8 +57,13 @@ console.log(whoami);
   <br/><br/><br/>
   <hr/>
     
-![0xEcho's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MANOJ-80&show_icons=true&theme=blue_navy)
-  <hr/>
+<a>
+  <img src="https://github-readme-stats.vercel.app/api?username=manoj-80&hide_rank=true&show_icons=true&bg_color=0d1117&text_color=ffffff&icon_color=79ff97&title_color=79ff97" alt="GitHub Stats">
+</a>
+
+<a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoj-80&layout=compact&langs_count=8&size_weight=0.2&count_weight=2&exclude_repo=RL-lab,ADS-lab,DL-lab,TSP-using-GA&hide=html&bg_color=0d1117&text_color=ffffff&icon_color=79ff97&title_color=79ff97" alt="GitHub Languages">
+</a>
 </div>
 
 ---
