@@ -13,13 +13,12 @@
 const whoami = {
   alias: "0xEcho",
   role: "Software Developer | Security Researcher",
-  hobbies: "Building | Breaking | Fixing",
-  focus: ["Web Development", "Cybersecurity", "Machine Learning"],
-  programmingLanguages: ["Python", "Java", "JavaScript"],
+  focus: ["Web Development", "Cybersecurity", "AI/ML"],
+  programmingLanguages: ["Python", "Bash", "Java", "JavaScript"],
   frontend: ["React.js", "HTML5", "Tailwind CSS"],
   backend: ["Node.js", "Express.js", "Passport.js"],
   databases: ["MongoDB", "PostgreSQL", "MySQL"],
-  tools: ["Linux", "Git", "Vite", "ESLint", "Postman", "Burp Suite", "Metasploit"]
+  tools: ["Linux", "Git", "Vite", "ESLint", "Nmap", "Postman", "Burp Suite", "Metasploit"]
 };
 
 console.log(whoami);
