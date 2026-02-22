@@ -15,7 +15,7 @@ const whoami = {
   programmingLanguages: ["Python", "Bash", "Java", "JavaScript"],
   frontend: ["React.js", "HTML5", "Tailwind CSS"],
   backend: ["Node.js", "Express.js", "Passport.js"],
-  databases: ["MongoDB", "PostgreSQL", "MySQL"],
+  databases: ["MongoDB", "PostgreSQL","ChromaDB", "SQlite"],
   tools: ["Linux", "Git", "Vite", "ESLint", "Nmap", "Postman", "Burp Suite", "Metasploit"]
 };
 
