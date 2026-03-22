@@ -10,8 +10,8 @@
 ~~~js       
 const whoami = {
   alias: "0xEcho",
-  role: "Software Engineer | Security Researcher",
-  focus: ["Web Development", "Cybersecurity", "AI/ML"],
+  role: "Software Engineer | Security Researcher | AI Engineer",
+  focus: ["Web/App Development", "Cybersecurity", "AI/ML"],
   programmingLanguages: ["Python", "Bash", "Java", "JavaScript"],
   frontend: ["React.js", "HTML5", "Tailwind CSS"],
   backend: ["Node.js", "Express.js", "Passport.js"],
